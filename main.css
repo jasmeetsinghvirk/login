@@ -1,0 +1,27 @@
+body {
+    background:url("images/background.png");
+    background-size:cover;
+ background-position:left;
+}
+h1 {
+    color:white;
+    background:grey;
+    width:40%
+}
+input{
+    padding:10px;
+    width:20%;
+    margin:10px;
+    font-size:18px 
+}
+p{
+    color:white;
+} 
+button {
+    width:30%;
+    color:white;
+    background:grey;
+    border: solid white;
+    font-size:20px;
+    padding:10px;  
+}
